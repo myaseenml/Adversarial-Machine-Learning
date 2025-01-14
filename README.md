@@ -18,7 +18,3 @@ Next, we explored different methods for constructing adversarial examples:
 
 We compared the misclassification rates for all the methods. The results were documented in a table with epsilon, alpha, and iterations as columns, and the optimization methods (FGSM, PGD, PGD with infinity norm, PGD with targeted attack, and PGD with L2 norm) as rows. This comparison helped us assess the effectiveness of each method in generating adversarial examples.
 
-------------
-
-
-This project was completed as part of the programming assignment for the course **Dependable and Secure AI-ML (AI60006).**
